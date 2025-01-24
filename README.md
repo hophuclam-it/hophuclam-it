@@ -1,3 +1,4 @@
+![Profile Picture](https://github.com/hophuclam-it/hophuclam-it/blob/main/welcome-header.gif)
 # Hi there, I'm Hồ Phúc Lâm 👋
 
 ## About Me
