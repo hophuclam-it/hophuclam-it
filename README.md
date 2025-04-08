@@ -11,4 +11,4 @@
 ## My Links
 - 🌐 Portfolio Website: [hophuclam-it.github.io/portfolio-website](https://hophuclam-it.github.io/portfolio-website/)
 - 📚 My Google Site: [sites.google.com/view/hophuclam-it-iuh](https://sites.google.com/view/hophuclam-it-iuh)
-- 📫 Reach me at: hophuclam-it@gmail.com
+- 📫 Reach me at: [hophuclam.it@gmail.com](mailto:hophuclam.it@gmail.com)
