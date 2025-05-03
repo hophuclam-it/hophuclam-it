@@ -27,5 +27,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hophuclam-it&theme=radical)](https://git.io/streak-stats)
 
 
+### 🐍 Contribution Snake
 ![Snake animation](https://github.com/hophuclam-it/hophuclam-it/blob/output/github-contribution-grid-snake.svg)
+
 
