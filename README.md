@@ -12,3 +12,20 @@
 - 🌐 Portfolio Website: [hophuclam-it.github.io/portfolio-website](https://hophuclam-it.github.io/portfolio-website/)
 - 📚 My Google Site: [sites.google.com/view/hophuclam-it-iuh](https://sites.google.com/view/hophuclam-it-iuh)
 - 📫 Reach me at: [hophuclam.it@gmail.com](mailto:hophuclam.it@gmail.com)
+
+
+### 📈 More
+![](https://komarev.com/ghpvc/?username=hophuclam-it&color=green)
+
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hophuclam-it&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hophuclam-it&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hophuclam-it&theme=radical)](https://git.io/streak-stats)
+
+
+![Snake animation](https://github.com/hophuclam-it/hophuclam-it/blob/output/github-contribution-grid-snake.svg)
+
