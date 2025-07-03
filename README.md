@@ -18,9 +18,6 @@
 
 
 ## 🔗 My Links
-
-- 🌐 [Portfolio Website](https://sites.google.com/view/hophuclam-it-iuh/ho-so-cv-hophuclam)
-- 📄 [Google Site Tai lieu IT IUH K18](https://sites.google.com/view/hophuclam-it-iuh/)
 - ✉️ [Email Me](mailto:hophuclam.it@gmail.com)
 
 
