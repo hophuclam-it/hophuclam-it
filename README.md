@@ -1,11 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&width=550&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ho+Phuc+Lam)](https://git.io/typing-svg)
+
 <!-- Banner welcome -->
 <p align="center">
   <img src="https://github.com/hophuclam-it/hophuclam-it/blob/main/welcome-header.gif" alt="Profile Picture Banner" />
 </p>
-
-
-## 👋 Hi there, I'm Hồ Phúc Lâm
-
 
 ## 👨‍💻 About Me
 
